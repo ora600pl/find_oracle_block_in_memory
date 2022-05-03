@@ -1,0 +1,4 @@
+info: syncing channel updates for 'stable-x86_64-unknown-linux-gnu'
+info: latest update on 2022-04-07, rust version 1.60.0 (7737e0b5c 2022-04-04)
+info: downloading component 'rust-src'
+info: installing component 'rust-src'

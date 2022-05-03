@@ -1,0 +1,13 @@
+[package]
+name = "find_oracle_block_in_memory"
+version = "0.1.0"
+edition = "2021"
+authors = ["Kamil Stawiarski <kamil@ora-600.pl>"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+binread = "2.2.0"
+proc-maps = "0.2.0"
+patternscan = "1.2.0"
+clap = { version = "3.0", features = ["derive"] }
